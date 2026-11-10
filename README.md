@@ -4,10 +4,10 @@ A free, offline Windows Python app for **merging** PDF/JPG/PNG/TXT files and **s
 
 ## Install and launch
 
-Requires Python 3.10+ with Tkinter. Extract the ZIP, open PowerShell in the extracted folder, and run:
+Requires Python 3.10+ with Tkinter. Clone the repo, open PowerShell in the extracted folder, and run:
 
 ```powershell
-py -m pip install -r requirements.txt
+python -m pip install -r requirements.txt
 ```
 
 Then double-click `run_pdf_merge.bat` or run `python pdf_merge_utility.py`.
